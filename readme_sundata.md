@@ -4,3 +4,5 @@ Dit is een fork omdat;
   * laravel-forge-backup schiet te kort omdat het enkel de database opslaat.
 
 let op dat je de release-branch pakt. Deze bevat o.a. de CSS in /dist.
+
+schedule de backup in laravel forge
