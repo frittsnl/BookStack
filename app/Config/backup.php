@@ -8,9 +8,7 @@ return [
          * the backups.
          */
 
-        // ! ! ! backup-monitor does not support spaces ! ! !
-
-        'name' => 'Sundata-Wiki',
+        'name' => env('APP_NAME', 'Sundata-Wiki'),
 
         'source' => [
             'files' => [
